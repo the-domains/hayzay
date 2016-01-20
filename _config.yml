@@ -1,7 +1,7 @@
 name: hayzay
 favicon: null
-layout_spectrum: 0.10268898890353739
-typography_spectrum: 0.3298382079228759
+layout_spectrum: 1
+typography_spectrum: 0.13834
 title: hayzay begins again
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.08502623182721436
-  lightness: 0.6984752989374101
-  saturation: 0.1855566028971225
-  rhythmicContrast: 0.6928086737170815
+    - '#eaf9fc'
+    - '#c4d8cd'
+    - '#120e0b'
+    - '#786a3e'
+    - '#cfa961'
+  brandStrength: 0.9375
+  lightness: 0.6875
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
