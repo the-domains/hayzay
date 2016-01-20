@@ -1,0 +1,28 @@
+name: hayzay
+favicon: null
+layout_spectrum: 0.10268898890353739
+typography_spectrum: 0.3298382079228759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08502623182721436
+  lightness: 0.6984752989374101
+  saturation: 0.1855566028971225
+  rhythmicContrast: 0.6928086737170815
+purpose: []
