@@ -4,7 +4,7 @@
         <description><![CDATA[hayzay]]></description>
         <link>https://thegrid.ai/hayzay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 07:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 07:50:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hayzay/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/hayzay/af0487c1-0b7e-4def-9475-5411ad894fa4/index.html</link>
             <guid isPermaLink="false">af0487c1-0b7e-4def-9475-5411ad894fa4</guid>
             <pubDate>Wed, 20 Jan 2016 07:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d48009-0032-4097-8bc3-a5a9eab7cfd0.jpg">]]></description>
-            <link>https://thegrid.ai/hayzay/e18bdbe1-d57d-49ab-be4f-51bda72b7e5c/index.html</link>
-            <guid isPermaLink="false">e18bdbe1-d57d-49ab-be4f-51bda72b7e5c</guid>
-            <pubDate>Wed, 20 Jan 2016 07:44:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
