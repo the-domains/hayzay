@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[hayzay]]></title>
-        <description><![CDATA[hayzay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[hayzay begins again]]></title>
+        <description><![CDATA[hayzay begins again]]></description>
+        <link>https://thegrid.ai/hayzay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 07:30:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 07:44:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hayzay/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55d48009-0032-4097-8bc3-a5a9eab7cfd0.jpg">]]></description>
-            <link>undefinede18bdbe1-d57d-49ab-be4f-51bda72b7e5c/index.html</link>
+            <link>https://thegrid.ai/hayzay/e18bdbe1-d57d-49ab-be4f-51bda72b7e5c/index.html</link>
             <guid isPermaLink="false">e18bdbe1-d57d-49ab-be4f-51bda72b7e5c</guid>
-            <pubDate>Wed, 20 Jan 2016 07:30:03 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 07:44:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
